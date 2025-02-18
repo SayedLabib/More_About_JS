@@ -1,0 +1,23 @@
+1. Nested Object and its property
+2. before dot mar question mark can chaining
+3. How to do Array maping
+4. How to do for each in array and the difference between foreach and map
+5. what is filter ? how filter returns an array
+6. Difference between filter and Find
+
+// optional :
+
+1. How to declare class object
+2. what is inheritance 
+3. Prototype Inheritance concept
+
+First: 
+
+* learnt about optional chaining
+* Nested Objects and Objects chaining
+* Map, call-back function
+* For each, find, filter and difference between them
+* Reduce function
+* Array of Object
+* class Object and Inheritance
+* bracket Notation and Dot notation

@@ -1,0 +1,33 @@
+1. javascript is a JIT compiled. multi-pardigm, prototype based 
+and Dynamically typed language.(which cllects the garbage file)
+
+2. JS can be worked as Procedural, as OOP as well as functional based
+Programming
+
+3. JS code is executed by V8 Engine it is written with C++ which
+is a googles Open source Engine and Every browser like edge
+and Chrome use it to execute JS code.
+
+4. Java Script is by nature is single threaded
+   Now, there is two things in that (asynchronous and Synchronous)
+
+5. Async works on promise. It will show the promised data after a
+   short period of time(time should be declared) or, IT will execute
+   The operation after all the operation is executed.
+
+6. The setInterval() and setTimeout() functions. Do, near similar
+kind of things. I can declare a two parameters into these functions
+
+  the difference is -  execution in the setTimeout will be stooped
+  after the decalared time.
+
+  But, the execution in the setTimeInterval() won't be stooped
+  it will running just like a clock. But, we can stop it using
+  some conditions and then call clearInterval() function
+
+7.Eventloop and concurrency:
+
+  
+
+   
+

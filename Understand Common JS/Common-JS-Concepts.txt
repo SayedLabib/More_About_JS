@@ -1,0 +1,18 @@
+* types of variable - primitive type and non-primitive type
+* Undefined 8 different ways of getting undefined
+* truthy and falsely values in JS
+* difference between (==) and (===) is - 
+    
+     double equal only checks if the values are same
+     where triple equal not only checks the value rather
+     it checks the value and the type of the value.
+     Also, equal comparison doesn't work for the non-primitive
+     type value
+
+* Block Scope, Global Scope, hoisting
+* closures in Js : A closure is basically a function can get access to the
+                   outer scope function
+
+* CallBack Function
+* Arguments and passby reference - 1. primitive types are pass by value
+                                   2. Non-primitive types are pass by reference

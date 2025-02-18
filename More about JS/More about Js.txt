@@ -1,0 +1,15 @@
+1. javascript is a JIT compiled. multi-pardigm, prototype based 
+and Dynamically typed language.(which cllects the garbage file)
+
+2. JS can be worked as Procedural, as OOP as well as functional based
+Programming
+
+3. JS code is executed by V8 Engine it is written with C++ which
+is a googles Open source Engine and Every browser like edge
+and Chrome use it to execute JS code.
+
+4. Java Script is by nature is single threaded
+   Now, there is two things in that (asynchronous and Synchronus)
+
+   
+

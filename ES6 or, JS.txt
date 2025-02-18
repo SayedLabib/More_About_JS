@@ -1,0 +1,6 @@
+1.Template String;
+2.function expressions(anonymous function)
+3.arrow function
+4.ig arrow functions
+5.Spread Operator , ArrayMax and Copy Arryas
+6. keys or, properties, entries, delete, seal, freeze
